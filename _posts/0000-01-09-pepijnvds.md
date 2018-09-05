@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: slides by pepijn
 title: "Welcome to our slide deck!"
 ---
 
