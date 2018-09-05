@@ -1,5 +1,5 @@
 ---
-layout: slide
+test conflict layout: slide
 title: "Welcome to our slide deck!"
 ---
 
