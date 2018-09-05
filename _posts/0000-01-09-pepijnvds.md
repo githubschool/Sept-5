@@ -1,9 +1,8 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Hi there!
 ---
 
-Caption here
+Hi there! #by Pepijn
 
 ![skatetocat](https://octodex.github.com/images/skatetocat.png)
-{: .center}
